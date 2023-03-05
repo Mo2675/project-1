@@ -1,7 +1,7 @@
 # project-1
 # Project 1 - MyStory 
 
-Submitted by: mohammed amroush
+Submitted by: mohamad amroush
 
 MyStory is an app that introduces the Kratos, his origin story, his abilities and items, and his responsibilities.
 
